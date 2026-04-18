@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **HTML, C, C++ etc.**
 
-- 📫 How to reach me **waliulawaltaha@gmail.com**
+- 📫 How to reach me **contact@waliulawaltaha.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

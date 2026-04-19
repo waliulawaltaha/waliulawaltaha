@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/waliulawaltaha" target="blank"><img src="https://img.shields.io/twitter/follow/waliulawaltaha?logo=twitter&style=for-the-badge" alt="waliulawaltaha" /></a> </p>
 
-- 🔭 I’m currently working on **TekBlez**
-
-- 🌱 I’m currently learning **HTML, C, C++ etc.**
-
 - 📫 How to reach me **contact@waliulawaltaha.com**
 
 <h3 align="left">Connect with me:</h3>
